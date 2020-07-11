@@ -6,7 +6,7 @@
   color: inherit;
 }
 body {
-  background: url(/imgs/bg.png) no-repeat center center/cover;
+  background: url(imgs/bg.png) no-repeat center center/cover;
 }
 /* header section styling */
 #header-section {
